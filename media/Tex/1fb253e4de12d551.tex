@@ -1,0 +1,9 @@
+\documentclass[preview]{standalone}
+\usepackage[english]{babel}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\begin{document}
+\begin{align*}
+\sum_{i \in X_M} \frac{\mathbb{I}[\max_{j \in \mathcal{Y}} f_j(x_i) < t']}{|X_M|} - \mathbb{E}_{(x,y) \sim \mathcal{D}^T}\left[\mathbb{I}\left[\max_{j \in \mathcal{Y}} f_j(x) < t'\right]\right] \leq \sqrt{\frac{\log(8/\delta)}{2|X_M|}}
+\end{align*}
+\end{document}

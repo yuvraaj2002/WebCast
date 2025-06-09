@@ -1,0 +1,14 @@
+django
+djangorestframework
+djangorestframework-simplejwt
+psycopg2-binary
+drf-yasg
+python-dotenv
+rich
+stripe
+cryptography
+django-cors-headers
+boto3
+google-genai
+pymupdf4llm
+llama_index
