@@ -12,3 +12,5 @@ boto3
 google-genai
 pymupdf4llm
 llama_index
+firecrawl
+celery
